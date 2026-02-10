@@ -98,6 +98,18 @@ Provides fast and accurate predictions.
 
 Demonstrates the effectiveness of deep learning in precision agriculture.
 
+## 📸 Project Screenshots
+
+### 🔹 Application Home Page
+![App Home](screenshots/app_home.png)
+
+### 🔹 Disease Prediction Result
+![Prediction Result](screenshots/prediction_result.png)
+
+### 🔹 Model Training Output
+![Model Training](screenshots/model_training.png)
+
+
 ## 🔮 Future Scope
 
 Extend detection to more crops and diseases
