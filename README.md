@@ -100,14 +100,15 @@ Demonstrates the effectiveness of deep learning in precision agriculture.
 
 ## 📸 Project Screenshots
 
-### 🔹 Application Home Page
-![App Home](screenshots/app_home.png)
+### 🔹 Home Screen
+![Home Screen](screenshots/ui_home.png)
 
-### 🔹 Disease Prediction Result
+### 🔹 Prediction Result
 ![Prediction Result](screenshots/prediction_result.png)
 
 ### 🔹 Model Training Output
-![Model Training](screenshots/model_training.png)
+![Training Output](screenshots/training_output.png)
+
 
 
 ## 🔮 Future Scope
