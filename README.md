@@ -118,8 +118,8 @@ Multilevel Deep Learning Model for Potato Leaf Disease Recognition, MDPI Electro
 
 Systematic Review of Deep Learning for Plant Diseases, Artificial Intelligence Review.
 
-👨‍💻 Developed By
+## 👨‍💻 Developed By
 
-Soumya Kamisetti
-Microsoft Elevate Virtual Internship
+**Soumya Kamisetti**  
+Microsoft Elevate Virtual Internship  
 AI-based Social Impact Project
